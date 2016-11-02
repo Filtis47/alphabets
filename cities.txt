@@ -1,3 +1,5 @@
 Atlanta
 Boston
 Chicago
+Detroit
+Eaton
